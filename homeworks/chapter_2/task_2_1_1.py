@@ -3,5 +3,5 @@ def greetings(name, familia):
     name= str(name)
     familia = str(familia)
     return g1+' '+name+' '+ '"Человек"'+' '+familia+'!'
-a= input().split()
+#a= input().split()
 #print(greetings(a[0],a[1]))

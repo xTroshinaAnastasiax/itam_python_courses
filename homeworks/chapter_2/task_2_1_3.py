@@ -1,4 +1,4 @@
 def debug_control(a):
     return (len(a))
-a= input().split()
+#a= input().split()
 #print( debug_control(a))

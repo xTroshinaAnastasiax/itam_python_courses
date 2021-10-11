@@ -1,4 +1,4 @@
-z= input().split()
+#z= input().split()
 def summation(z):
     count=0
     maxim=0
